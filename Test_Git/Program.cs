@@ -11,7 +11,7 @@ namespace Test_Git
         static void Main(string[] args)
         {
             TestFunc.OutPut_Hi();
-            Console.WriteLine("Hello Git!");
+            Console.WriteLine("Hello Git! && Git Hub!");
         }
     }
 }
